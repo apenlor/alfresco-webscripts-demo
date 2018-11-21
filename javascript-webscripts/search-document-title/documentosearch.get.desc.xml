@@ -1,0 +1,9 @@
+<webscript>
+  <shortname>Documento Search</shortname>
+  <description>Busca documentos por titulo y muestra su resumen</description>
+  <url>/sample/documento/search?titulo={titulo}</url>
+  <format default="html">extension</format>
+  <authentication>user</authentication>
+  <transaction>required</transaction>
+  <family>demo</family>
+</webscript>

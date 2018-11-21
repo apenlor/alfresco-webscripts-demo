@@ -1,0 +1,7 @@
+<webscript>
+	<shortname>Reemplazo del contenido de un fichero</shortname>
+	<description>Actualiza el contenido del nodo indicado</description>
+	<url>/sample/updateContent</url>
+	<authentication>user</authentication>
+    <family>demo</family>
+</webscript>

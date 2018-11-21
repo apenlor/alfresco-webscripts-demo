@@ -1,0 +1,10 @@
+<webscript>
+   <shortname>Delete Node</shortname>
+   <description>Elimina un documento del repositorio aportando el oid</description>
+   <url>/sample/deleteNode?nodeid={nodeid}</url>
+   <url>/sample/deleteNode?storeid={storeid}&amp;path={path}</url>
+   <format default="xml">argument</format>
+   <authentication>user</authentication>
+   <transaction>required</transaction>
+   <family>demo</family>
+</webscript>
