@@ -1,0 +1,8 @@
+<webscript>
+    <shortname>CrearDocumento Webscript JAVA</shortname>
+    <description>CrearDocumento Webscript JAVA</description>
+    <url>/sample/crearDocumento</url>
+    <authentication>user</authentication>
+    <format default="xml"></format>
+    <family>demo JAVA</family> 
+</webscript>

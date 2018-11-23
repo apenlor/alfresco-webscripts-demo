@@ -1,0 +1,8 @@
+<webscript>
+    <shortname>GetDocumento Webscript JAVA</shortname>
+    <description>GetDocumento Webscript JAVA</description>
+    <url>/sample/getDocumento?oidDocumento={oidDocumento}</url>
+    <authentication>user</authentication>
+    <format default="xml"></format>
+    <family>demo JAVA</family> 
+</webscript>
