@@ -1,23 +1,23 @@
 # alfresco-webscripts-demo
 
-Incluye dos ejemplos utilizados en formaciones impartidas sobre desarrollo y extensión del gestor documental Alfresco. Los aspectos, metadatos o referencias a tipos utilizados son todos ficticios.
+Includes two examples used in training courses about the development and extension of the Alfresco document manager. The aspects, metadata or references to types used are all fictitious.
 
 ## java-amp-alfrescosdk3
-Ejemplo de AMP para Alfresco con webscripts JAVA. Se utiliza [Alfresco SDK 3](https://docs.alfresco.com/5.2/concepts/sdk-intro.html).
+Example of AMP for Alfresco with JAVA webscripts. It uses [Alfresco SDK 3] (https://docs.alfresco.com/5.2/concepts/sdk-intro.html).
 
-El proyecto permite levantar una instancia de Alfresco con el amp ya instalado. El amp incluye tres webscript Java
+Project allows to deploy an instance of Alfresco with the amp already installed. The amp includes three Java webscript
  - **helloWorld** 
  - **crearDocumento** 
  - **getDocumento**
 
 ## javascript-webscripts
-Incluye tres webscripts desarrollados con javascript. Para el despliegue en el gestor documental deberían simplemente ser incluídos en la carpeta:
+It includes three webscripts developed with javascript. For the deployment in the document manager they should simply be included in the folder:
 
  - **Data Dictionary > Web Scripts**
 
-Los scripts incluídos permiten:
-- **delete-node** (incluye log en user home)
+Included scripts allow:
+- **delete-node** (includes log in user home)
 - **search-document-title**
-- **update-content** (acceso mediante post y get)
+- **update-content** (access through post and get)
 
 
